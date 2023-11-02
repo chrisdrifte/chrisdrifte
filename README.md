@@ -1,6 +1,6 @@
 ## Rocks, Radio, React
 
-Hi, I'm Chris, a self-taught developer from the UK. With over 20 years of experience building for the web, 8+ years professionally, much of my life has been dedicated to my passion for code.
+Hi, I'm Chris, a self-taught developer from the UK. With over 20 years of experience building for the web, 8+ years professionally, much of my life has been dedicated to my passion for code. Native English / Conversational Spanish.
 
 - **Top Skills:** `TypeScript, React/React Native, Node.js, Storybook, Jest, Figma, Sentry, GCP/AWS/Azure`
 - **Hacking around in:** `Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
@@ -15,13 +15,15 @@ I provided key technical advice during the initial development of NUMA Air, as w
 
 ### [KOLAPS](https://kolaps.com/en/intro/)
 
-As the sole developer at KOLAPS, I implemented complex animated designs with React and Typescript.
+As the sole developer at KOLAPS, I provided technical advice throughout the delivery process, managed projects, and implemented complex animated designs with React and Typescript.
 
 - [Hausman.com](https://hausman.com/)
 - [InvinityWineRack.com](https://invinitywinerack.com/)
 
+This role gave me a strong grasp of the perspectives of project stakeholders at every level, as well as a good understanding of UX/UI and design vocabulary.
+
 ### Freelance
-As a freelancer, I built various websites for clients over the years, usually based on Wordpress.
+As a freelancer, I built various websites for clients, usually based on Wordpress or a static site generator like Next.js.
 
 - [FormulaAirRacing.com](http://formulaairracing.com/)
 - [Cellusys-Technologies.com](https://cellusys-technologies.com/)
