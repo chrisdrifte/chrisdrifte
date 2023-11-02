@@ -21,7 +21,7 @@ As the sole developer at KOLAPS, I implemented complex animated designs with Rea
 - [InvinityWineRack.com](https://invinitywinerack.com/)
 
 ### Freelance
-As a freelancer, I've built various websites for clients over the years, usually based on Wordpress.
+As a freelancer, I built various websites for clients over the years, usually based on Wordpress.
 
 - [FormulaAirRacing.com](http://formulaairracing.com/)
 - [Cellusys-Technologies.com](https://cellusys-technologies.com/)
@@ -31,7 +31,7 @@ As a freelancer, I've built various websites for clients over the years, usually
 
 ### Mentoring
 
-I've taught Computer Science at [Internation Rural School](https://www.internationalruralschool.com/), volunteered with [CodeYourFuture](https://codeyourfuture.io/), and privately mentored students in various languages.
+I taught Computer Science at [Internation Rural School](https://www.internationalruralschool.com/), volunteered with [CodeYourFuture](https://codeyourfuture.io/), and privately mentored students in various languages.
 
 ### Education
 
@@ -54,6 +54,6 @@ There's more, but I can't share all of it. 🤐
 
 ## Off-Screen
 
-I've spent more than 22 years living outside my home country, working jobs that range from stand-up comedy and carpentry, to teaching English and playing music in the street. I've published books, run marathons, and even walked Spain coast-to-coast. When I'm not working, I'm rock climbing or organizing hikes. Life is never boring!
+I have a great love for adventure. With more than 22 years living outside my home country, I've been a stand-up comic, radio host, carpenter, English teacher, street musician, and published author. I competed nationally in rock climbing (USA), walked Spain coast-to-coast, and climbed Mt. Fuji. I organize hikes or run half marathons most weekends. Life is never boring!
 
 Find me on [LinkedIn](https://www.linkedin.com/in/chris-drifte/) or [join me on a hike](https://www.instagram.com/hike.barcelona/).
