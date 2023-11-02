@@ -41,7 +41,13 @@ University of Kent / University at Buffalo - BA (Hons) English and American Lite
 
 There's more, but I can't share all of it. 🤐  
 
-## Testimonials
+## Recommendations
+
+### David Malott, Founder & CEO of SpaceFactory
+
+> I've had the privilege of working with Chris Drifte for the past six years, and during this time, I've been consistently impressed with his strong technical competency and work ethic. Chris has been a trusted partner for us on a multitude of projects—from crafting our company website to cloud deployment of our robotic 3D printing software and explorations in the Metaverse. 
+>
+> For any organization seeking a senior developer, Chris Drifte is a tremendous asset. He brings a unique blend of technical and interpersonal skills that is rare to find. I wholeheartedly recommend Chris and am confident that he will exceed any expectations set before him.
 
 ### Hasan, Director at KOLAPS
 > We have worked with Chris for a while before he joined our team. At each step of the way, Chris showed a level of responsibility and initiative that is rarely encountered. He is meticulous and technically highly capable. He was also always able to cover any know-how gaps he might have by acquiring knowledge and understanding very rapidly. His sharp intellect and sense of humor are also a great addition to any team.
