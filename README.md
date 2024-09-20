@@ -1,11 +1,14 @@
-## Rocks, Radio, React
+# Hi, I'm Chris, a self-taught developer from the UK. 
 
-Hi, I'm Chris, a self-taught developer from the UK. With over 20 years of experience building for the web, 8+ years professionally, much of my life has been dedicated to my passion for code. Native English / Conversational Spanish.
+With over 20 years of experience building for the web, 9+ years professionally, much of my life has been dedicated to my passion for code. Native English / Conversational Spanish.
 
-- **Top Skills:** `TypeScript, React/React Native, Node.js, Storybook, Jest, Figma, Sentry, GCP/AWS/Azure`
-- **Hacking around in:** `Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
+- **Top Skills:** `TypeScript, React, NextJS (app router), Node.js, Storybook, Jest, NX, Figma, Sentry, GCP/AWS/Azure`
+- **Hacking around in:** `React Native, Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
 
 ## Projects
+
+### [Bike24 Search Results Page](https://bike24.com/search-result?searchTerm=abus)
+I was the driving force behind implementing a best-in-class search results page - twice as fast as amazon.com. 
 
 ### [AI SpaceFactory](https://spacefactory.ai/)
 David Malott designed 3 of the world's tallest buildings. Over the years, I've worked directly alongside David to supply various projects, including websites, internal tools, and a metaverse experience built on the Polygon blockchain.
@@ -22,26 +25,18 @@ As the sole developer at KOLAPS, I provided technical advice throughout the deli
 
 This role gave me a strong grasp of the perspectives of project stakeholders at every level, as well as a good understanding of UX/UI and design vocabulary.
 
-### Freelance
-As a freelancer, I built various websites for clients, usually based on Wordpress or a static site generator like Next.js.
+## Open source
 
-- [FormulaAirRacing.com](http://formulaairracing.com/)
-- [Cellusys-Technologies.com](https://cellusys-technologies.com/)
-- [HowToHitchhike.com](https://howtohitchhike.com/)
-- [AI-O.com](https://www.ai-o.com/) (not my design)
-- [Kodify.io](https://kodify.io/) (not my design)
+### [Monster Minesweeper](https://www.minesweeper.monster) ([https://github.com/chrisdrifte/minesweeper-monster](view source))
+A remake of the classic 90s game with interactive tutorials and various game modes. Built as a side project, featured in NextJS Weekly. 10,000+ games played in its launch week.
 
-### Mentoring
+## Mentoring
 
 I taught Computer Science at [Internation Rural School](https://www.internationalruralschool.com/), volunteered with [CodeYourFuture](https://codeyourfuture.io/), and privately mentored students in various languages.
 
-### Education
+## Education
 
 University of Kent / University at Buffalo - BA (Hons) English and American Literature (2:1)
-
-### Other (unpublished, under NDA)
-
-There's more, but I can't share all of it. 🤐  
 
 ## Recommendations
 
@@ -56,6 +51,6 @@ There's more, but I can't share all of it. 🤐
 
 ## Off-Screen
 
-I have a great love for adventure. With more than 22 years living outside my home country, I've been a stand-up comic, radio host, carpenter, English teacher, street musician, and published author. I competed nationally in rock climbing (USA), walked Spain coast-to-coast, and climbed Mt. Fuji. I organize hikes or run half marathons most weekends. Life is never boring!
+I have a great love for adventure. With more than 22 years living outside my home country, I've been a stand-up comic, radio host, carpenter, English teacher, street musician, and published author. I competed nationally in rock climbing (USA), walked Spain coast-to-coast, and climbed various mountains across 4 continents.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/chris-drifte/) or [join me on a hike](https://www.instagram.com/hike.barcelona/).
+Find me on [LinkedIn](https://www.linkedin.com/in/chris-drifte/)
