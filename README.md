@@ -34,10 +34,6 @@ A remake of the classic 90s game with interactive tutorials and various game mod
 
 I taught Computer Science at [Internation Rural School](https://www.internationalruralschool.com/), volunteered with [CodeYourFuture](https://codeyourfuture.io/), and privately mentored students in various languages.
 
-## Education
-
-University of Kent / University at Buffalo - BA (Hons) English and American Literature (2:1)
-
 ## Recommendations
 
 ### David Malott, Founder & CEO of SpaceFactory
@@ -55,4 +51,4 @@ I have a great love for adventure. With more than 22 years living outside my hom
 
 Find me on [LinkedIn](https://www.linkedin.com/in/chris-drifte/)
 
-UK Citizen. Native English / Conversational Spanish / Basic Catalan.
+UK Citizen. Native English / Conversational Spanish / Basic Catalan. University degree (humanities).
