@@ -1,6 +1,6 @@
-# Hi, I'm Chris, a self-taught developer from the UK. 
+# Hi, I'm Chris 
 
-With over 20 years of experience building for the web, 9+ years professionally, much of my life has been dedicated to my passion for code. Native English / Conversational Spanish.
+With over 20 years of experience building for the web, 9+ years professionally, much of my life has been dedicated to my passion for code. 
 
 - **Top Skills:** `TypeScript, React, NextJS (app router), Node.js, Storybook, Jest, NX, Figma, Sentry, GCP/AWS/Azure`
 - **Hacking around in:** `React Native, Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
@@ -54,3 +54,5 @@ University of Kent / University at Buffalo - BA (Hons) English and American Lite
 I have a great love for adventure. With more than 22 years living outside my home country, I've been a stand-up comic, radio host, carpenter, English teacher, street musician, and published author. I competed nationally in rock climbing (USA), walked Spain coast-to-coast, and climbed various mountains across 4 continents.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/chris-drifte/)
+
+UK Citizen. Native English / Conversational Spanish / Basic Catalan.
