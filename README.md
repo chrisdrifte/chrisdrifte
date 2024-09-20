@@ -27,7 +27,7 @@ This role gave me a strong grasp of the perspectives of project stakeholders at 
 
 ## Open source
 
-### [Monster Minesweeper](https://www.minesweeper.monster) ([source](https://github.com/chrisdrifte/minesweeper-monster)))
+### [Monster Minesweeper](https://www.minesweeper.monster) ([source](https://github.com/chrisdrifte/minesweeper-monster))
 A remake of the classic 90s game with interactive tutorials and various game modes. Built as a side project, featured in NextJS Weekly. 10,000+ games played in its launch week.
 
 ## Mentoring
