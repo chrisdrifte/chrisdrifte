@@ -8,7 +8,7 @@ With over 20 years of experience building for the web, 9+ years professionally, 
 ## Projects
 
 ### [Bike24 Search Results Page](https://bike24.com/search-result?searchTerm=abus)
-I was the driving force behind implementing a best-in-class search results page - twice as fast as amazon.com. 
+I was the driving force behind implementing a best-in-class search results page - delivering results even faster than amazon.com. 
 
 ### [AI SpaceFactory](https://spacefactory.ai/)
 David Malott designed 3 of the world's tallest buildings. Over the years, I've worked directly alongside David to supply various projects, including websites, internal tools, and a metaverse experience built on the Polygon blockchain.
