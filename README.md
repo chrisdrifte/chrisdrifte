@@ -11,7 +11,7 @@ With over 20 years of experience building for the web, 9+ years professionally, 
 I was the driving force behind implementing a best-in-class search results page - delivering results even faster than amazon.com. 
 
 ### [AI SpaceFactory](https://spacefactory.ai/)
-David Malott designed 3 of the world's tallest buildings. Over the years, I've worked directly alongside David to supply various projects, including websites, internal tools, and a metaverse experience built on the Polygon blockchain.
+David Malott designed 3 of the world's tallest buildings. Today, he collaborates with NASA. Over the years, I've worked directly alongside David to supply various projects for AI SpaceFactory, including websites, internal tools, and a metaverse experience built on the Polygon blockchain.
 
 ### [NUMA Air](https://www.numaproducts.com/)
 I provided key technical advice during the initial development of NUMA Air, as well as developed the MVP app in use at Google's NYC offices, Pier 57. At my suggestion, NUMA added a screen to their devices which reduced overall costs and simplified the user experience.
