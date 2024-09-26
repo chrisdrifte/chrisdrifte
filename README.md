@@ -8,7 +8,7 @@ With over 20 years of experience building for the web, 9+ years professionally, 
 ## Projects
 
 ### [Bike24 Search Results Page](https://bike24.com/search-result?searchTerm=abus)
-Much of Bike24's 200MM+ annual revenue travels through their search results page, which offers the widest and deepest product range in their market. I was the driving force behind implementing a best-in-class search - delivering results even faster than amazon.com. This project reduced cost, dramatically increased conversions, and expanded opportunities for future features. 
+Much of Bike24's 200MM+ annual revenue travels through their search results page, which offers the widest and deepest product range in their market. I was the driving force behind implementing a best-in-class search - [delivering results even faster than amazon.com](https://www.linkedin.com/feed/update/urn:li:activity:7231979210175614976/). This project reduced cost, dramatically increased conversions, and expanded opportunities for future features. 
 
 ### [AI SpaceFactory](https://spacefactory.ai/)
 David Malott designed 3 of the world's tallest buildings. Today, he collaborates with NASA. Over the years, I've worked directly alongside David to supply various projects for AI SpaceFactory, including websites, internal tools, and a metaverse experience built on the Polygon blockchain.
