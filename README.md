@@ -5,6 +5,25 @@ With over 20 years of experience building for the web, 10+ years professionally,
 - **Top Skills:** `TypeScript, React, NextJS (app router), Node.js, Storybook, Jest, NX, Figma, Sentry, GCP/AWS/Azure`
 - **Hacking around in:** `React Native, Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
 
+## Recommendations
+
+### Michael Batschon
+#### Team Lead Digital Product Manager, Bike24
+
+> Even in complex environments, Chris always strives for the best possible technical implementation with the greatest long-term viability. He's incredibly engaged, even far beyond his specific scope of responsibilities. Chris is always seeking knowledge, opportunities for exchange, and ways to collaborate. For him, team boundaries are merely imaginary. With his motivation and drive, he inspires everyone around him. Because he has also gained extensive professional experience as a consultant, he brings this wonderful mindset — that of a sympathetic listener and analyst, problem-solver, and mentor. 
+
+### David Malott
+#### Founder & CEO, SpaceFactory
+
+> I've had the privilege of working with Chris for the past six years, and during this time, I've been consistently impressed with his strong technical competency and work ethic. Chris has been a trusted partner for us on a multitude of projects—from crafting our company website to cloud deployment of our robotic 3D printing software and explorations in the Metaverse. 
+>
+> For any organization seeking a senior developer, Chris is a tremendous asset. He brings a unique blend of technical and interpersonal skills that is rare to find. I wholeheartedly recommend Chris and am confident that he will exceed any expectations set before him.
+
+### Hasan Chaaban
+#### Director, KOLAPS
+
+> We have worked with Chris for a while before he joined our team. At each step of the way, Chris showed a level of responsibility and initiative that is rarely encountered. He is meticulous and technically highly capable. He was also always able to cover any know-how gaps he might have by acquiring knowledge and understanding very rapidly. His sharp intellect and sense of humor are also a great addition to any team.
+
 ## Projects
 
 ### [Bike24 2025 Rebrand](https://bike24.com)
@@ -36,21 +55,6 @@ A remake of the classic 90s game with interactive tutorials and various game mod
 ## Mentoring
 
 I taught Computer Science at [Internation Rural School](https://www.internationalruralschool.com/), volunteered with [CodeYourFuture](https://codeyourfuture.io/), and privately mentored students in various languages.
-
-## Recommendations
-
-### Michael Batschon, Team Lead Digital Product Manager, Bike24
-
-> Even in complex environments, Chris always strives for the best possible technical implementation with the greatest long-term viability. He's incredibly engaged, even far beyond his specific scope of responsibilities. Chris is always seeking knowledge, opportunities for exchange, and ways to collaborate. For him, team boundaries are merely imaginary. With his motivation and drive, he inspires everyone around him. Because he has also gained extensive professional experience as a consultant, he brings this wonderful mindset — that of a sympathetic listener and analyst, problem-solver, and mentor. 
-
-### David Malott, Founder & CEO of SpaceFactory
-
-> I've had the privilege of working with Chris for the past six years, and during this time, I've been consistently impressed with his strong technical competency and work ethic. Chris has been a trusted partner for us on a multitude of projects—from crafting our company website to cloud deployment of our robotic 3D printing software and explorations in the Metaverse. 
->
-> For any organization seeking a senior developer, Chris is a tremendous asset. He brings a unique blend of technical and interpersonal skills that is rare to find. I wholeheartedly recommend Chris and am confident that he will exceed any expectations set before him.
-
-### Hasan Chaaban, Director at KOLAPS
-> We have worked with Chris for a while before he joined our team. At each step of the way, Chris showed a level of responsibility and initiative that is rarely encountered. He is meticulous and technically highly capable. He was also always able to cover any know-how gaps he might have by acquiring knowledge and understanding very rapidly. His sharp intellect and sense of humor are also a great addition to any team.
 
 ## Off-Screen
 
