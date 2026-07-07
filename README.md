@@ -39,7 +39,7 @@ I taught Computer Science at [Internation Rural School](https://www.internationa
 
 ## Recommendations
 
-### Michael Batschon
+### Michael Batschon, Team Lead Digital Product Manager, Bike24
 
 > Even in complex environments, Chris always strives for the best possible technical implementation with the greatest long-term viability. He's incredibly engaged, even far beyond his specific scope of responsibilities. Chris is always seeking knowledge, opportunities for exchange, and ways to collaborate. For him, team boundaries are merely imaginary. With his motivation and drive, he inspires everyone around him. Because he has also gained extensive professional experience as a consultant, he brings this wonderful mindset — that of a sympathetic listener and analyst, problem-solver, and mentor. 
 
