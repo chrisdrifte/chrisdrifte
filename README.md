@@ -45,8 +45,6 @@ As the sole developer at KOLAPS, I provided technical advice throughout the deli
 - [Hausman.com](https://hausman.com/)
 - [InvinityWineRack.com](https://invinitywinerack.com/)
 
-This role gave me a strong grasp of the perspectives of project stakeholders at every level, as well as a good understanding of UX/UI and design vocabulary.
-
 ## Open source
 
 ### [Monster Minesweeper](https://www.minesweeper.monster) ([source](https://github.com/chrisdrifte/minesweeper-monster))
