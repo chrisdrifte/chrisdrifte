@@ -1,11 +1,14 @@
 # Hi, I'm Chris 
 
-With over 20 years of experience building for the web, 9+ years professionally, much of my life has been dedicated to my passion for code. 
+With over 20 years of experience building for the web, 10+ years professionally, much of my life has been dedicated to my passion for code. 
 
 - **Top Skills:** `TypeScript, React, NextJS (app router), Node.js, Storybook, Jest, NX, Figma, Sentry, GCP/AWS/Azure`
 - **Hacking around in:** `React Native, Python, Solidity, PHP, SQL, GraphQL, Bash, Github Actions`
 
 ## Projects
+
+### [Bike24 2025 Rebrand](https://bike24.com)
+I took the lead in defining the front-end strategy of Bike24's rebrand, developing an innovative solution to migrate between modern and legacy design systems. This cut the work effort by around two thirds, and allowed hundreds of thousands of pages to switch over seamlessly to the new design with minimal impact. In addition to solving the technical complexities, I also co-ordinated across teams - including product, dev, QA, and SEO - and managed a small team of frontend devs to ensure a smooth delivery.
 
 ### [Bike24 Search Results Page](https://bike24.com/search-result?searchTerm=abus)
 Much of Bike24's 200MM+ annual revenue travels through their search results page, which offers the widest and deepest product range in their market. I was the driving force behind implementing a best-in-class search - [delivering results even faster than amazon.com](https://www.linkedin.com/feed/update/urn:li:activity:7231979210175614976/). This project reduced cost, dramatically increased conversions, and expanded opportunities for future features. 
@@ -36,13 +39,17 @@ I taught Computer Science at [Internation Rural School](https://www.internationa
 
 ## Recommendations
 
+### Michael Batschon
+
+> Even in complex environments, Chris always strives for the best possible technical implementation with the greatest long-term viability. He's incredibly engaged, even far beyond his specific scope of responsibilities. Chris is always seeking knowledge, opportunities for exchange, and ways to collaborate. For him, team boundaries are merely imaginary. With his motivation and drive, he inspires everyone around him. Because he has also gained extensive professional experience as a consultant, he brings this wonderful mindset — that of a sympathetic listener and analyst, problem-solver, and mentor. 
+
 ### David Malott, Founder & CEO of SpaceFactory
 
-> I've had the privilege of working with Chris Drifte for the past six years, and during this time, I've been consistently impressed with his strong technical competency and work ethic. Chris has been a trusted partner for us on a multitude of projects—from crafting our company website to cloud deployment of our robotic 3D printing software and explorations in the Metaverse. 
+> I've had the privilege of working with Chris for the past six years, and during this time, I've been consistently impressed with his strong technical competency and work ethic. Chris has been a trusted partner for us on a multitude of projects—from crafting our company website to cloud deployment of our robotic 3D printing software and explorations in the Metaverse. 
 >
-> For any organization seeking a senior developer, Chris Drifte is a tremendous asset. He brings a unique blend of technical and interpersonal skills that is rare to find. I wholeheartedly recommend Chris and am confident that he will exceed any expectations set before him.
+> For any organization seeking a senior developer, Chris is a tremendous asset. He brings a unique blend of technical and interpersonal skills that is rare to find. I wholeheartedly recommend Chris and am confident that he will exceed any expectations set before him.
 
-### Hasan, Director at KOLAPS
+### Hasan Chaaban, Director at KOLAPS
 > We have worked with Chris for a while before he joined our team. At each step of the way, Chris showed a level of responsibility and initiative that is rarely encountered. He is meticulous and technically highly capable. He was also always able to cover any know-how gaps he might have by acquiring knowledge and understanding very rapidly. His sharp intellect and sense of humor are also a great addition to any team.
 
 ## Off-Screen
